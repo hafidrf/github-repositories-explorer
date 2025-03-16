@@ -68,7 +68,7 @@ const ListResult = ({ query }: IListResults) => {
                 target="_blank"
                 sx={{ display: "block", mt: 1, color: "primary.main" }}
               >
-                More repos from {item.login}
+                Go To Profile {item.login}
               </Link>
             </AccordionDetails>
           </Accordion>

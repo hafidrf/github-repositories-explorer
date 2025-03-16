@@ -14,7 +14,7 @@ A **modern and responsive** GitHub repositories explorer that allows users to se
 ## 🚀 Live Demo  
 
 Check out the deployed version here:  
-🔗 [GitHub Repositories Explorer](https://github-repositories-explorer-slhu.vercel.app/)  
+🔗 [GitHub Repositories Explorer](https://github-repositories-explorer-two-sepia.vercel.app/)  
 
 ## 🛠️ Tech Stack  
 
